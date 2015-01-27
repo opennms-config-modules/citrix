@@ -1810,7 +1810,8 @@
         <uei>uei.opennms.org/vendor/citrix/netscaler/traps/svcGroupMemberSynfloodRate</uei>
         <event-label>NS-ROOT-MIB defined trap event: svcGroupMemberSynfloodRate</event-label>
         <descr>
-            &lt;p&gt;This trap is sent when the number of unacknowledged syns for a service group exceeds a threshold value.&lt;/p&gt;&lt;table&gt;
+            &lt;p&gt;This trap is sent when the number of unacknowledged syns for a service group exceeds a threshold
+            value.&lt;/p&gt;&lt;table&gt;
             &lt;tr&gt;&lt;td&gt;&lt;b&gt;
 
             svcGrpMemberName&lt;/b&gt;&lt;/td&gt;&lt;td&gt;
@@ -1945,7 +1946,8 @@
         <uei>uei.opennms.org/vendor/citrix/netscaler/traps/svcGroupMemberMaxClientsNormal</uei>
         <event-label>NS-ROOT-MIB defined trap event: svcGroupMemberMaxClientsNormal</event-label>
         <descr>
-            &lt;p&gt;This trap is sent when the number of clients falls below 70% of maxClients value for a service group member.&lt;/p&gt;&lt;table&gt;
+            &lt;p&gt;This trap is sent when the number of clients falls below 70% of maxClients value for a service
+            group member.&lt;/p&gt;&lt;table&gt;
             &lt;tr&gt;&lt;td&gt;&lt;b&gt;
 
             svcGrpMemberName&lt;/b&gt;&lt;/td&gt;&lt;td&gt;
@@ -1990,7 +1992,8 @@
         <uei>uei.opennms.org/vendor/citrix/netscaler/traps/averageCpuUtilization</uei>
         <event-label>NS-ROOT-MIB defined trap event: averageCpuUtilization</event-label>
         <descr>
-            &lt;p&gt;This trap indicates that the average CPU usage in the multi-processor NetScaler system has exceeded the high threshold.&lt;/p&gt;&lt;table&gt;
+            &lt;p&gt;This trap indicates that the average CPU usage in the multi-processor NetScaler system has exceeded
+            the high threshold.&lt;/p&gt;&lt;table&gt;
             &lt;tr&gt;&lt;td&gt;&lt;b&gt;
 
             resCpuUsage&lt;/b&gt;&lt;/td&gt;&lt;td&gt;
@@ -2030,7 +2033,8 @@
         <uei>uei.opennms.org/vendor/citrix/netscaler/traps/averageCpuUtilizationNormal</uei>
         <event-label>NS-ROOT-MIB defined trap event: averageCpuUtilizationNormal</event-label>
         <descr>
-            &lt;p&gt;This trap indicates that the average CPU usage in the multi-processor NetScaler system has come back to normal.&lt;/p&gt;&lt;table&gt;
+            &lt;p&gt;This trap indicates that the average CPU usage in the multi-processor NetScaler system has come
+            back to normal.&lt;/p&gt;&lt;table&gt;
             &lt;tr&gt;&lt;td&gt;&lt;b&gt;
 
             resCpuUsage&lt;/b&gt;&lt;/td&gt;&lt;td&gt;
@@ -2120,7 +2124,8 @@
         <uei>uei.opennms.org/vendor/citrix/netscaler/traps/monRespTimeoutBelowThresh</uei>
         <event-label>NS-ROOT-MIB defined trap event: monRespTimeoutBelowThresh</event-label>
         <descr>
-            &lt;p&gt;This trap is sent when the response timeout for a monitor probe comes back to normal, less than the threshold set.&lt;/p&gt;&lt;table&gt;
+            &lt;p&gt;This trap is sent when the response timeout for a monitor probe comes back to normal, less than the
+            threshold set.&lt;/p&gt;&lt;table&gt;
             &lt;tr&gt;&lt;td&gt;&lt;b&gt;
 
             monServiceName&lt;/b&gt;&lt;/td&gt;&lt;td&gt;
