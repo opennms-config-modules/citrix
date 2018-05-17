@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<datacollection-group name="Netscaler">
+<datacollection-group xmlns="https://xmlns.opennms.org/xsd/config/datacollection" name="Citrix Netscaler">
 
     <!-- Netscaler MIBs -->
     <group name="NetScaler-General" ifType="ignore">
